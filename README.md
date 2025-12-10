@@ -1,4 +1,9 @@
-do this from the project directory: node tools/codebrain.mjs tree src 
+get codebrain.mjs and run it on from your project directory
+
+and after 
+do this
+in your project directory aswell: node tools/codebrain.mjs tree src 
+
 
 for example : maddi/~/proximity-profiles-solid$ node tools/codebrain.mjs tree src
 
