@@ -1,7 +1,10 @@
 do this from the project directory: node tools/codebrain.mjs tree src 
 
-----for example : maddi/~/proximity-profiles-solid$ node tools/codebrain.mjs tree src
--------the cat command already creates the file for you run that codebase file in your root project folder too : maddi/~/proximity-profiles-solid$ <<
+for example : maddi/~/proximity-profiles-solid$ node tools/codebrain.mjs tree src
+
+the cat command already creates the file for you run that codebase file in your root project folder too : maddi/~/proximity-profiles-solid$ 
+
+
 === 🧠 CODEBRAIN ARCHITECTURE ANALYSIS ===
 Project: proximity-profiles-solid
 Files Analyzed: 60 | Depth: unlimited
